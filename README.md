@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on a clone of twitter.com built with Vue, Express, and MongoDB
-- 🌱 I’m currently learning Vue
+- 🌱 I’m currently learning Vue!
 - 📫 How to reach me: Twitter @cammurphy1295
 
 <!--
