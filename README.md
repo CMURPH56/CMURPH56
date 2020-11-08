@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on a clone of twitter.com built with Vue, Express, and MongoDB
-- 🌱 I’m currently learning Vue!
+- 🌱 I’m currently learning Vue, Auth, and MongoDB!
 
 <!--
 **CMURPH56/CMURPH56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
